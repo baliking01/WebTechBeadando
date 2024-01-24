@@ -1,0 +1,10 @@
+\select@language {hungarian} \contentsline {section}{\numberline {1}Felhasználói felület és oldalak bemutatása}{2}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {1.1}Kezdőoldal - Home}{2}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {1.2}Évadok - Seasons}{6}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {1.3}Szereplők leírása - Character Profile}{8}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {1.4}Webáruház - Webshop}{9}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {1.5}Regisztráció - Sign Up}{10}{}%
+\select@language {hungarian} \contentsline {section}{\numberline {2}Kód bemutatása}{12}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {2.1}HTML}{12}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {2.2}CSS}{16}{}%
+\select@language {hungarian} \contentsline {subsection}{\numberline {2.3}JavaScript}{20}{}%

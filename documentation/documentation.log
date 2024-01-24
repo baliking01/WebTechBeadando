@@ -1,0 +1,606 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.12) (preloaded format=pdflatex 2024.1.14)  24 JAN 2024 22:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./documentation.tex
+(documentation.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2024-01-04>
+(F:\MikTex\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(F:\MikTex\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (F:\MikTex\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(F:\MikTex\tex/generic/babel\babel.sty
+Package: babel 2023/12/10 v3.99 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(F:\MikTex\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(F:\MikTex\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(F:\MikTex\tex/latex/babel-hungarian\magyar.ldf
+Language: hungarian 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count197
+\c@footnote@ch=\count198
+)
+(F:\MikTex\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(F:\MikTex\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(F:\MikTex\tex/generic/babel/locale/hu\babel-hungarian.tex
+Package babel Info: Importing font and identification data for hungarian
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(F:\MikTex\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+(F:\MikTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(F:\MikTex\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(F:\MikTex\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(F:\MikTex\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(F:\MikTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(F:\MikTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(F:\MikTex\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(F:\MikTex\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(F:\MikTex\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+Package caption Info: hungarian babel package is loaded.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+Package caption Info: hungarian babel package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count267
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count268
+)
+(F:\MikTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box51
+) (documentation.aux)
+\openout1 = `documentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(F:\MikTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen152
+\scratchbox=\box52
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen153
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks19
+) (F:\MikTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(F:\MikTex\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(F:\MikTex\tex/latex/base\article.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+ [1
+
+
+{C:/Users/baliking/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (document
+ation.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `documentation.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1]
+<images/home/1.jpg, id=13, 1445.4pt x 728.7225pt>
+File: images/home/1.jpg Graphic file (type jpg)
+<use images/home/1.jpg>
+Package pdftex.def Info: images/home/1.jpg  used on input line 34.
+(pdftex.def)             Requested size: 390.0pt x 196.62427pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2 <./images/home/1.jpg>]
+<images/home/2.jpg, id=18, 1444.64719pt x 727.21687pt>
+File: images/home/2.jpg Graphic file (type jpg)
+<use images/home/2.jpg>
+Package pdftex.def Info: images/home/2.jpg  used on input line 44.
+(pdftex.def)             Requested size: 390.0pt x 196.31789pt.
+<images/home/3.jpg, id=19, 879.285pt x 51.94406pt>
+File: images/home/3.jpg Graphic file (type jpg)
+<use images/home/3.jpg>
+Package pdftex.def Info: images/home/3.jpg  used on input line 52.
+(pdftex.def)             Requested size: 390.0pt x 23.03932pt.
+<images/home/4.jpg, id=20, 870.25125pt x 51.19125pt>
+File: images/home/4.jpg Graphic file (type jpg)
+<use images/home/4.jpg>
+Package pdftex.def Info: images/home/4.jpg  used on input line 60.
+(pdftex.def)             Requested size: 390.0pt x 22.94133pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./images/home/2.jpg> <./images/home/3.jpg> <./images/home/4.jpg>]
+<images/home/5.jpg, id=24, 343.2825pt x 429.85594pt>
+File: images/home/5.jpg Graphic file (type jpg)
+<use images/home/5.jpg>
+Package pdftex.def Info: images/home/5.jpg  used on input line 70.
+(pdftex.def)             Requested size: 272.99881pt x 341.84535pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4 <./images/home/5.jpg>]
+<images/home/6.jpg, id=28, 343.2825pt x 417.81094pt>
+File: images/home/6.jpg Graphic file (type jpg)
+<use images/home/6.jpg>
+Package pdftex.def Info: images/home/6.jpg  used on input line 79.
+(pdftex.def)             Requested size: 272.99881pt x 332.2665pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5 <./images/home/6.jpg>]
+<images/seasons/1.jpg, id=32, 442.65375pt x 451.6875pt>
+File: images/seasons/1.jpg Graphic file (type jpg)
+<use images/seasons/1.jpg>
+Package pdftex.def Info: images/seasons/1.jpg  used on input line 91.
+(pdftex.def)             Requested size: 234.00238pt x 238.77982pt.
+<images/seasons/2.jpg, id=33, 921.4425pt x 270.25969pt>
+File: images/seasons/2.jpg Graphic file (type jpg)
+<use images/seasons/2.jpg>
+Package pdftex.def Info: images/seasons/2.jpg  used on input line 99.
+(pdftex.def)             Requested size: 390.0pt x 114.38666pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6 <./images/seasons/1.jpg> <./images/seasons/2.jpg>]
+<images/seasons/3.jpg, id=38, 925.20656pt x 398.23781pt>
+File: images/seasons/3.jpg Graphic file (type jpg)
+<use images/seasons/3.jpg>
+Package pdftex.def Info: images/seasons/3.jpg  used on input line 107.
+(pdftex.def)             Requested size: 390.0pt x 167.8664pt.
+<images/seasons/4.jpg, id=39, 910.90312pt x 377.15906pt>
+File: images/seasons/4.jpg Graphic file (type jpg)
+<use images/seasons/4.jpg>
+Package pdftex.def Info: images/seasons/4.jpg  used on input line 113.
+(pdftex.def)             Requested size: 390.0pt x 161.47888pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7 <./images/seasons/3.jpg> <./images/seasons/4.jpg>]
+<images/characters/1.jpg, id=43, 949.29657pt x 348.55219pt>
+File: images/characters/1.jpg Graphic file (type jpg)
+<use images/characters/1.jpg>
+Package pdftex.def Info: images/characters/1.jpg  used on input line 124.
+(pdftex.def)             Requested size: 390.0pt x 143.1945pt.
+<images/characters/2.jpg, id=44, 950.04938pt x 340.27126pt>
+File: images/characters/2.jpg Graphic file (type jpg)
+<use images/characters/2.jpg>
+Package pdftex.def Info: images/characters/2.jpg  used on input line 130.
+(pdftex.def)             Requested size: 390.0pt x 139.68346pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8 <./images/characters/1.jpg> <./images/characters/2.jpg>]
+<images/webshop/1.jpg, id=48, 883.04906pt x 434.37282pt>
+File: images/webshop/1.jpg Graphic file (type jpg)
+<use images/webshop/1.jpg>
+Package pdftex.def Info: images/webshop/1.jpg  used on input line 141.
+(pdftex.def)             Requested size: 390.0pt x 191.84044pt.
+<images/webshop/2.jpg, id=49, 1114.1625pt x 559.33969pt>
+File: images/webshop/2.jpg Graphic file (type jpg)
+<use images/webshop/2.jpg>
+Package pdftex.def Info: images/webshop/2.jpg  used on input line 147.
+(pdftex.def)             Requested size: 390.0pt x 195.7889pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <./images/webshop/1.jpg> <./images/webshop/2.jpg>]
+<images/signup/1.jpg, id=53, 385.44pt x 594.72188pt>
+File: images/signup/1.jpg Graphic file (type jpg)
+<use images/signup/1.jpg>
+Package pdftex.def Info: images/signup/1.jpg  used on input line 158.
+(pdftex.def)             Requested size: 269.80615pt x 416.30247pt.
+<images/signup/2.jpg, id=54, 386.19281pt x 502.12593pt>
+File: images/signup/2.jpg Graphic file (type jpg)
+<use images/signup/2.jpg>
+Package pdftex.def Info: images/signup/2.jpg  used on input line 166.
+(pdftex.def)             Requested size: 272.99881pt x 354.9489pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10 <./images/signup/1.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11 <./images/signup/2.jpg>]
+<images/html/1.jpg, id=61, 391.4625pt x 182.18062pt>
+File: images/html/1.jpg Graphic file (type jpg)
+<use images/html/1.jpg>
+Package pdftex.def Info: images/html/1.jpg  used on input line 187.
+(pdftex.def)             Requested size: 390.0pt x 181.51021pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12 <./images/html/1.jpg>]
+<images/html/2.jpg, id=67, 337.26pt x 172.39406pt>
+File: images/html/2.jpg Graphic file (type jpg)
+<use images/html/2.jpg>
+Package pdftex.def Info: images/html/2.jpg  used on input line 195.
+(pdftex.def)             Requested size: 350.99762pt x 179.41974pt.
+<images/html/4.jpg, id=68, 374.90062pt x 294.34969pt>
+File: images/html/4.jpg Graphic file (type jpg)
+<use images/html/4.jpg>
+Package pdftex.def Info: images/html/4.jpg  used on input line 201.
+(pdftex.def)             Requested size: 350.99762pt x 275.59732pt.
+<images/html/3.jpg, id=69, 478.03593pt x 113.67468pt>
+File: images/html/3.jpg Graphic file (type jpg)
+<use images/html/3.jpg>
+Package pdftex.def Info: images/html/3.jpg  used on input line 207.
+(pdftex.def)             Requested size: 312.00119pt x 74.19293pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/html/5.jpg, id=70, 511.15968pt x 482.55281pt>
+File: images/html/5.jpg Graphic file (type jpg)
+<use images/html/5.jpg>
+Package pdftex.def Info: images/html/5.jpg  used on input line 215.
+(pdftex.def)             Requested size: 390.0pt x 368.1724pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13 <./images/html/2.jpg> <./images/html/4.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14 <./images/html/3.jpg> <./images/html/5.jpg>]
+<images/html/6.jpg, id=77, 552.56438pt x 677.53125pt>
+File: images/html/6.jpg Graphic file (type jpg)
+<use images/html/6.jpg>
+Package pdftex.def Info: images/html/6.jpg  used on input line 222.
+(pdftex.def)             Requested size: 390.0pt x 478.19719pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15 <./images/html/6.jpg>]
+<images/css/1.jpg, id=81, 271.76532pt x 322.95656pt>
+File: images/css/1.jpg Graphic file (type jpg)
+<use images/css/1.jpg>
+Package pdftex.def Info: images/css/1.jpg  used on input line 236.
+(pdftex.def)             Requested size: 312.00119pt x 370.79102pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16 <./images/css/1.jpg>]
+<images/css/2.jpg, id=86, 364.36125pt x 495.35063pt>
+File: images/css/2.jpg Graphic file (type jpg)
+<use images/css/2.jpg>
+Package pdftex.def Info: images/css/2.jpg  used on input line 245.
+(pdftex.def)             Requested size: 312.00119pt x 424.17921pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17 <./images/css/2.jpg>]
+<images/css/3.jpg, id=90, 297.36093pt x 379.4175pt>
+File: images/css/3.jpg Graphic file (type jpg)
+<use images/css/3.jpg>
+Package pdftex.def Info: images/css/3.jpg  used on input line 254.
+(pdftex.def)             Requested size: 312.00119pt x 398.11644pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18 <./images/css/3.jpg>]
+<images/css/4.jpg, id=95, 172.39406pt x 155.07938pt>
+File: images/css/4.jpg Graphic file (type jpg)
+<use images/css/4.jpg>
+Package pdftex.def Info: images/css/4.jpg  used on input line 263.
+(pdftex.def)             Requested size: 234.00238pt x 210.50285pt.
+<images/css/5.jpg, id=96, 251.43938pt x 185.94469pt>
+File: images/css/5.jpg Graphic file (type jpg)
+<use images/css/5.jpg>
+Package pdftex.def Info: images/css/5.jpg  used on input line 270.
+(pdftex.def)             Requested size: 234.00238pt x 173.04875pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19 <./images/css/4.jpg> <./images/css/5.jpg>]
+<images/javascript/1.jpg, id=100, 813.0375pt x 666.23906pt>
+File: images/javascript/1.jpg Graphic file (type jpg)
+<use images/javascript/1.jpg>
+Package pdftex.def Info: images/javascript/1.jpg  used on input line 281.
+(pdftex.def)             Requested size: 390.0pt x 319.57762pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20 <./images/javascript/1.jpg>]
+<images/javascript/2.jpg, id=104, 441.14813pt x 375.65344pt>
+File: images/javascript/2.jpg Graphic file (type jpg)
+<use images/javascript/2.jpg>
+Package pdftex.def Info: images/javascript/2.jpg  used on input line 289.
+(pdftex.def)             Requested size: 390.0pt x 332.11221pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21 <./images/javascript/2.jpg>]
+<images/javascript/3.jpg, id=108, 432.11438pt x 234.8775pt>
+File: images/javascript/3.jpg Graphic file (type jpg)
+<use images/javascript/3.jpg>
+Package pdftex.def Info: images/javascript/3.jpg  used on input line 298.
+(pdftex.def)             Requested size: 390.0pt x 211.99347pt.
+<images/javascript/4.jpg, id=109, 473.51906pt x 99.37125pt>
+File: images/javascript/4.jpg Graphic file (type jpg)
+<use images/javascript/4.jpg>
+Package pdftex.def Info: images/javascript/4.jpg  used on input line 304.
+(pdftex.def)             Requested size: 390.0pt x 81.84581pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22 <./images/javascript/3.jpg> <./images/javascript/4.jpg>] (documentation.aux
+)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 5233 strings out of 474485
+ 95845 string characters out of 5760140
+ 1929528 words of memory out of 5000000
+ 27502 multiletter control sequences out of 15000+600000
+ 568139 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,11n,77p,369b,366s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\baliking\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cti1200.pk> <C:\Users\baliking\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1200.pk> <C:\Users\baliking\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecbx1440.pk> <C:\Users\baliking\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\baliking\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\baliking\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\baliking\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\bal
+iking\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
+Output written on documentation.pdf (23 pages, 2391176 bytes).
+PDF statistics:
+ 392 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+

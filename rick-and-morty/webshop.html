@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+
+    <title>Shop</title>
+</head>
+<body>
+    <header id="main-header" class="container-fluid">
+        <div class="mobile-nav ">
+            <img src="img/logo.png" alt="rick and morty logo">
+            <p class="toggle-nav">&#10094;</p>
+        </div>
+        <nav>
+            <ul>
+                <li class="brand"><img src="img/logo.png" alt="rick and morty logo"></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="seasons.html">Seasons</a></li>
+                <li><a href="character.html">Character Profile</a></li>
+                <li class="active"><a href="webshop.html">Webshop</a></li>
+                <li><a href="registration.html">Sign Up</a></li>
+            </ul>
+        </nav>
+    
+    </header>
+
+    <!-- webshop -->
+    <section id="webshop" class="container">
+
+        <article class="shop">
+
+            <section class="shop-item" data-amount="%s" data-img="img/webshop/morty-future-stone.png"
+                     data-description='morty pop' data-name="Death Crystal Morty Pop! Vinyl Figure">
+                <p class="price-tag">
+                    <span class="amount">&euro; %s</span>
+                </p>
+                <figure>
+                    <img src="img/webshop/morty-future-stone.png" alt="rick and morty Vinyl Figure">
+                </figure>
+                <p class="description">Rick and Morty - Death Crystal Morty Pop! Vinyl Figure</p>
+                <button class="order-button">Order now!</button>
+            </section>
+
+            <section class="shop-item" data-amount="%s" data-img="img/webshop/rick-with-sign.png"
+                     data-description='rick pop' data-name="Hologram Rick Clone! Vinyl Figure">
+                <p class="price-tag">
+                    <span class="amount">&euro; %s</span>
+                </p>
+                <figure>
+                    <img src="img/webshop/rick-with-sign.png" alt="rick and morty Vinyl Figure">
+                </figure>
+                <p class="description">Rick and Morty – Hologram Rick Clone! Vinyl Figure</p>
+                <button class="order-button">Order now!</button>
+            </section>
+
+            <section class="shop-item" data-amount="%s" data-img="img/webshop/rick-sticker.png"
+                     data-description='rick sticker' data-name="Rick Sanches epic Sticker">
+                <p class="price-tag">
+                    <span class="amount">&euro; %s</span>
+                </p>
+                <figure>
+                    <img src="img/webshop/rick-sticker.png" alt="rick and morty Vinyl Figure">
+                </figure>
+                <p class="description">Rick and Morty – Rick Sanches epic Sticker</p>
+                <button class="order-button">Order now!</button>
+            </section>
+
+        
+
+            <section id="selected-shop-item" class="selected-shop-item exit-button hidden"
+                     data-exit-target="selected-shop-item">
+
+                <article class="content">
+                    <button class="exit-button" data-exit-target="selected-shop-item">X</button>
+                    <figure>
+                        <img id="selected-item-img" src="#" alt="rick and morty Vinyl Figure">
+                    </figure>
+                    <div class="details">
+                        <div class="group">
+                            <h4 id="selected-item-name" class="item-name">-</h4>
+                            <p id="selected-item-description" class="item-description">-</p>
+                        </div>
+                        <div class="group">
+                            <input type="number" placeholder="Amount">
+                            <button class="order-button exit-button" data-exit-target="selected-shop-item">Order Now!
+                            </button>
+                        </div>
+                    </div>
+                </article>
+
+            </section>
+        </article>
+    </section>
+
+
+<footer>
+    <span>
+        &copy; Nagy Balazs Development Studio <a href="http://wiar.it"> <br> University of Miskolc</a><br>
+    </span>
+    
+</footer>
+<script src="js/main.js"></script>
+
+</body>
+</html>

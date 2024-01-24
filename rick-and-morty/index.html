@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <!-- main css -->
+    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link href="css/responsive.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="js/elements.js">
+
+</head>
+<body>
+
+<style>
+
+    #videoid{
+        
+        display: flex;
+	    justify-content: center;
+
+        width: 100%;
+        height: 100%;
+        
+    }
+
+    .videoparam{
+       
+        width: 50%;
+        height: 50%;
+    }
+
+    #container{
+
+        width: 100%;
+    }
+
+    #form_container{
+
+        display: flex;
+	    justify-content: center;
+        padding-top: 10%;
+    }
+
+    .forthecreator{
+
+        color: red;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+       
+        
+    }
+
+    form{
+        background-color: rgb(46, 46, 46);
+        padding: 1%;
+        border-radius: 5%;
+    }
+    .a{
+        color:brown;
+        animation-delay: 0s;
+
+
+    }
+
+    a:link {
+        color: red;
+    }
+
+        /* visited link */
+    a:visited {
+        color: white;
+    }
+
+        /* mouse over link */
+    a:hover {
+        color: hotpink;
+    }
+
+        /* selected link */
+    a:active {
+        color: rgb(202, 81, 81);
+    }
+
+    button {
+    background-color: #3d393d; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px 10px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    }
+
+    #jstest{
+        
+        display: block;
+        justify-content: center;
+            text-align: center;
+            align-items: center;
+            margin-left: 20%;
+            width: 20%;
+            padding-left: 20%;
+            padding-right: 8%;
+
+        }
+
+        #modifyElement{
+                color: black;
+        }
+
+        button{
+            
+            font-size: 18px
+        }
+
+</style>
+  
+
+<header id="main-header" class="container-fluid">
+    <div class="mobile-nav ">
+        <img src="img/logo.png" alt="rick and morty logo">
+        <p class="toggle-nav">&#10094;</p>
+    </div>
+    <nav>
+        <ul>
+            <li class="brand"><img src="img/logo.png" alt="rick and morty logo"></li>
+            <li class="active" ><a href="index.html">Home</a></li>
+            <li><a href="seasons.html">Seasons</a></li>
+            <li><a href="character.html">Character Profile</a></li>
+            <li><a href="webshop.html">Webshop</a></li>
+            <li><a href="registration.html">Sign Up</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+
+<main>
+
+    <!-- slideshow -->
+    <section id="home" class="container-fluid slider">
+        <figure>
+            <img src="img/slider/slide_1.png" alt="first-slide">
+        </figure>
+        <article class="slide-caption center-left">
+            <h1>Rick And Morty</h1>
+            <p>Rick and Morty is an American adult animated science fiction sitcom created by Justin Roiland and Dan
+                Harmon for Cartoon Network's late-night programming block Adult Swim.</p>
+        </article>
+    </section>
+
+    <!-- #video -->
+    <section id = "home" >
+
+        <div id = "videoid">
+            <video class = "videoparam" autoplay muted controls>
+                <source src="img/videos/video1.mp4" type="video/mp4">        
+              Your browser does not support the video tag.
+              </video>
+        </div>
+
+    </section>
+
+
+    <section>
+
+        <div id="form_container">
+
+            <form>
+                <p class = "forthecreator">Write to the creator</p>
+                <!-- Szöveges beviteli mező (egy soros) -->
+                <label for="egysoros">Email</label>
+                <input type="text" id="egysoros" name="egysoros">
+            
+                <br>
+            
+                <!-- Szöveges beviteli mező (több soros) -->
+                <label for="tobbsoros">Message</label>
+                
+                <br>
+                <textarea id="tobbsoros" name="tobbsoros" rows="4" cols="50"></textarea>
+            
+                <br>
+            
+                <!-- Checkbox -->
+                <input type="checkbox" id="checkbox" name="checkbox">
+                <label for="checkbox">get reply</label>
+            
+                <br>
+            
+                <!-- Radio button -->
+                <label for="radio">accept</label>
+                <input type="radio" id="radio1" name="radio" value="option1">
+                <label for="radio1">Yes</label>
+            
+                <input type="radio" id="radio2" name="radio" value="option2">
+                <label for="radio2">No</label>
+
+                
+            
+                <br>
+            
+                <!-- Színválasztó -->
+                <label for="szinvalaszto">Choose a color</label>
+                <input type="color" id="szinvalaszto" name="szinvalaszto">
+
+            
+                <br>
+            
+                <!-- Űrlap elküldése gomb -->
+                <input type="submit" value="Send">
+
+
+
+                
+                
+            </form>
+
+
+        </div>
+    
+        
+    </section>
+
+    <section>
+    
+        <div id="jstest">
+
+    
+        <button id="createNewElement">Add new element</button>
+    
+        <!-- Gomb az elem módosításához -->
+        <button id="modifyElement">Modify element</button>
+    
+        <!-- Meglévő div elem, amit módosítunk -->
+        <div id="myDiv">Modify this element, push the button!</div>
+    
+        </div>
+        <!-- Gomb az új elem létrehozásához -->
+
+        <!-- Itt fogjuk betölteni a JavaScript kódot -->
+        <script src="js/elements.js"></script>
+    
+        <!-- Itt fogjuk betölteni a JavaScript kódot -->
+        <script src="js/addelement.js"></script>
+
+    </section>
+
+
+    
+
+</main>
+<footer>
+    <span>
+        &copy; Nagy Balazs Development Studio <a href="http://wiar.it"> <br> University of Miskolc</a><br>
+    </span>
+    
+</footer>
+<script src="js/main.js"></script>
+
+</body>
+</html>
